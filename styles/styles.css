@@ -8,12 +8,15 @@ body {
 nav {
     background-color: steelblue;
     padding: 10px;
+    display: flex;
 }
 
 nav a {
     color: white;
     text-decoration: none;
     margin-right: 15px;
+    padding: 10px;
+    display: block;
 }
 
 h1 {
