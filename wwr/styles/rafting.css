@@ -44,7 +44,7 @@ nav{
 
 nav a{
     text-decoration:none;
-    color:var(--primary-color);
+    color:var(--secondary-color);
     font-weight:bold;
 }
 
@@ -88,7 +88,7 @@ article{
     left:20px;
     right:20px;
 
-    background:rgba(255,255,255,.85);
+    background:var(--accent2-color);
 }
 
 .hero article img{
